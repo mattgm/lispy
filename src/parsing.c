@@ -1,3 +1,5 @@
+/* credit to Daniel Holden for the great tutorial! */
+
 #include "mpc.h"
 
 #ifdef _WIN32
